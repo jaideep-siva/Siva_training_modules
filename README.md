@@ -21,8 +21,7 @@
 3. ls 
 4. cd to navigate back to the home directory 
 5. to copy file: cp file1.txt cpoffile1.txt
-
-link
+![Screenshot from 2023-08-13 15-45-38](https://github.com/jaideep-siva/Siva_training_modules/assets/112749838/342d6d7f-631f-4629-9842-4d6bdeb766b2)
 
 
 
