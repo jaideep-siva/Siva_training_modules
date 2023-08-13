@@ -16,9 +16,13 @@
 
 
 # Siva Module Two
-a. pwd
-b. mkdir <directory name>
-c. ls 
-d. cd to navigate back to the home directory 
-e. to copy file: cp file1.txt cpoffile1.txt
+1. pwd
+2. mkdir <directory name>
+3. ls 
+4. cd to navigate back to the home directory 
+5. to copy file: cp file1.txt cpoffile1.txt
+
+link
+
+
 
