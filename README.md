@@ -13,3 +13,12 @@
 [good song](https://www.youtube.com/watch?v=riwePTnk-Zk&ab_channel=RHINO)
 
 
+
+
+# Siva Module Two
+a. pwd
+b. mkdir <directory name>
+c. ls 
+d. cd to navigate back to the home directory 
+e. to copy file: cp file1.txt cpoffile1.txt
+
