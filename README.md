@@ -25,7 +25,7 @@
 
 # Siva Module Three
 
-1. # Single-line comment
+1.  Single-line comment using # in front 
 2. // Single -Line comment
 3. """ multi-line comment """
 4. /* multi-line comment */
