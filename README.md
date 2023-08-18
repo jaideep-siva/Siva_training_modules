@@ -23,5 +23,11 @@
 5. to copy file: cp file1.txt cpoffile1.txt
 ![Screenshot from 2023-08-13 15-45-38](https://github.com/jaideep-siva/Siva_training_modules/assets/112749838/342d6d7f-631f-4629-9842-4d6bdeb766b2)
 
+# Siva Module Three
 
+1. # Single-line comment
+2. // Single -Line comment
+3. """ multi-line comment """
+4. /* multi-line comment */
+   
 
