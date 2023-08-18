@@ -29,5 +29,11 @@
 2. // Single -Line comment
 3. """ multi-line comment """
 4. /* multi-line comment */
+
+Name: Mod3_Q8
+Description: Determines if the sum of two numbers is odd or even 
+Parameters: 2 inputs( num_2 and num_2)
+
+
    
 
